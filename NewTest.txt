@@ -1,3 +1,4 @@
 NEW TEST FILE.
 // line comment
 /* comment */
+SOME OTHER LINE
