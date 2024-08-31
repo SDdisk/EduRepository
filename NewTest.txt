@@ -2,3 +2,4 @@ NEW TEST FILE.
 // line comment
 /* comment */
 SOME OTHER LINE
+LINE FROM USER2
